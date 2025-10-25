@@ -1,0 +1,8 @@
+# Project Directory
+.build/
+
+# Project Files
+*.csr
+*.env
+*.json
+*.pem
